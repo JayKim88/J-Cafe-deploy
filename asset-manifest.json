@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/J-cafe-deploy/static/css/main.87c3c15b.chunk.css",
-    "main.js": "/J-cafe-deploy/static/js/main.40cfcdf9.chunk.js",
-    "main.js.map": "/J-cafe-deploy/static/js/main.40cfcdf9.chunk.js.map",
+    "main.js": "/J-cafe-deploy/static/js/main.ff2599ec.chunk.js",
+    "main.js.map": "/J-cafe-deploy/static/js/main.ff2599ec.chunk.js.map",
     "runtime-main.js": "/J-cafe-deploy/static/js/runtime-main.67e0d464.js",
     "runtime-main.js.map": "/J-cafe-deploy/static/js/runtime-main.67e0d464.js.map",
     "static/js/2.76bbe75b.chunk.js": "/J-cafe-deploy/static/js/2.76bbe75b.chunk.js",
@@ -10,12 +10,12 @@
     "index.html": "/J-cafe-deploy/index.html",
     "static/css/main.87c3c15b.chunk.css.map": "/J-cafe-deploy/static/css/main.87c3c15b.chunk.css.map",
     "static/js/2.76bbe75b.chunk.js.LICENSE.txt": "/J-cafe-deploy/static/js/2.76bbe75b.chunk.js.LICENSE.txt",
-    "static/js/main.40cfcdf9.chunk.js.LICENSE.txt": "/J-cafe-deploy/static/js/main.40cfcdf9.chunk.js.LICENSE.txt"
+    "static/js/main.ff2599ec.chunk.js.LICENSE.txt": "/J-cafe-deploy/static/js/main.ff2599ec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.67e0d464.js",
     "static/js/2.76bbe75b.chunk.js",
     "static/css/main.87c3c15b.chunk.css",
-    "static/js/main.40cfcdf9.chunk.js"
+    "static/js/main.ff2599ec.chunk.js"
   ]
 }
