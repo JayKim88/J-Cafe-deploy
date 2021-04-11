@@ -8,13 +8,20 @@ function Nav() {
   return (
     <div id="nav-body">
       <span id="title">
-        <img id="logo" src="../JayLogo.png" alt="logo" />
-        <span id="name">JMarket</span>
+        <img
+          id="logo"
+          src="https://jcafebucket.s3.ap-northeast-2.amazonaws.com/JayLogo.png"
+          alt="logo"
+        />
+        <Link to="/">
+          <span id="name">J Cafe</span>
+        </Link>
       </span>
       <div id="menu">
-        <Link to="/">상품리스트</Link>
+        <Link to="/">Menus</Link>
         <Link to="/shoppingcart">
-          장바구니<span id="nav-item-counter">{state.cartItems.length}</span>
+          Cart Items
+          <span id="nav-item-counter">{state.cartItems.length}</span>
         </Link>
       </div>
     </div>
